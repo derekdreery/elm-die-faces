@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "A list of points to draw for the faces of a die (1 - 6)",
-    "repository": "https://github.com/user/project.git",
+    "repository": "https://github.com/derekdreery/elm-die-faces.git",
     "license": "BSD3",
     "source-directories": [
         "src"
